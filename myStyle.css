@@ -1,0 +1,8 @@
+#sliders-container {
+    display: grid !important;
+    justify-content: center !important;
+}
+
+#rev_slider_1_1_wrapper {
+    width: 960px !important;
+}
